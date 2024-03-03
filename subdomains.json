@@ -145,6 +145,7 @@
   "o": "owlg.github.io",
   "ocloo": "dev0cloo.github.io/portfolio/",
   "op": "op-bot.github.io",
+  "OTB": "OTB.github.io",
   "paban": "pabanjyoti.github.io",
   "pablo": "itspablo.glitch.me",
   "penguin": "bcyayay14.github.io",
@@ -217,6 +218,5 @@
   "zen": "zen-sveltekit.vercel.app",
   "zh": "zh.github.io",
   "zuhaib": "powrhouseofthecell.github.io",
-  "zvqle": "zvqlesrealm.vercel.app",
-  "OTB": "OTB.github.io"
+  "zvqle": "zvqlesrealm.vercel.app"
 }
